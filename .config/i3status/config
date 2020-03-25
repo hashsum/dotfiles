@@ -1,0 +1,29 @@
+general {
+    output_format = "i3bar"
+    colors = true
+    interval = 5
+}
+
+order += "disk /"
+order += "separator"
+order += "cpu_usage"
+order += "memory"
+order += "tztime local"
+
+
+disk "/" {
+    format = "Disk usage: %used / %total"
+}
+
+cpu_usage {
+    format = "CPU: %usage"
+}
+
+memory {
+    format = "RAM usage: %used / %total"
+    format_degraded = "MEMORY: %free"
+}
+
+tztime local {
+    format = "%d.%m %Y %H:%M"
+}

@@ -1,0 +1,61 @@
+2020/02/20-17:34:08.248 51b4 Reusing MANIFEST /home/vlad/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/02/20-17:34:08.248 51b4 Recovering log #438
+2020/02/20-17:34:08.261 51b4 Reusing old log /home/vlad/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000438.log 
+2020/02/20-17:37:10.211 53d6 Level-0 table #445: started
+2020/02/20-17:37:10.241 53d6 Level-0 table #445: 2411654 bytes OK
+2020/02/20-17:37:10.246 53d6 Delete type=0 #438
+2020/02/20-17:37:10.365 53d6 Level-0 table #447: started
+2020/02/20-17:37:10.396 53d6 Level-0 table #447: 3147281 bytes OK
+2020/02/20-17:37:10.399 53d6 Delete type=0 #444
+2020/02/20-17:37:13.347 53d6 Level-0 table #449: started
+2020/02/20-17:37:13.377 53d6 Level-0 table #449: 2463579 bytes OK
+2020/02/20-17:37:13.381 53d6 Delete type=0 #446
+2020/02/20-17:41:14.737 53d6 Level-0 table #451: started
+2020/02/20-17:41:14.778 53d6 Level-0 table #451: 2069030 bytes OK
+2020/02/20-17:41:14.783 53d6 Delete type=0 #448
+2020/02/20-17:41:14.784 53d6 Compacting 4@0 + 3@1 files
+2020/02/20-17:41:14.823 53d6 Generated table #452@0: 11 keys, 2285746 bytes
+2020/02/20-17:41:14.866 53d6 Generated table #453@0: 14 keys, 2768813 bytes
+2020/02/20-17:41:14.897 53d6 Generated table #454@0: 24 keys, 1648012 bytes
+2020/02/20-17:41:14.897 53d6 Compacted 4@0 + 3@1 files => 6702571 bytes
+2020/02/20-17:41:14.901 53d6 compacted to: files[ 0 3 4 0 0 0 0 ]
+2020/02/20-17:41:14.902 53d6 Delete type=2 #442
+2020/02/20-17:41:14.902 53d6 Delete type=2 #447
+2020/02/20-17:41:14.902 53d6 Delete type=2 #451
+2020/02/20-17:41:14.902 53d6 Delete type=2 #440
+2020/02/20-17:41:14.902 53d6 Delete type=2 #449
+2020/02/20-17:41:14.902 53d6 Delete type=2 #445
+2020/02/20-17:41:14.902 53d6 Delete type=2 #441
+2020/02/20-17:45:15.913 53d6 Level-0 table #456: started
+2020/02/20-17:45:15.947 53d6 Level-0 table #456: 1456281 bytes OK
+2020/02/20-17:45:15.951 53d6 Delete type=0 #450
+2020/02/20-17:59:22.698 53d6 Level-0 table #458: started
+2020/02/20-17:59:22.739 53d6 Level-0 table #458: 1908067 bytes OK
+2020/02/20-17:59:22.743 53d6 Delete type=0 #455
+2020/02/20-18:08:23.423 53d6 Level-0 table #460: started
+2020/02/20-18:08:23.457 53d6 Level-0 table #460: 3312485 bytes OK
+2020/02/20-18:08:23.461 53d6 Delete type=0 #457
+2020/02/20-18:10:08.249 53d6 Level-0 table #462: started
+2020/02/20-18:10:08.278 53d6 Level-0 table #462: 2534804 bytes OK
+2020/02/20-18:10:08.283 53d6 Delete type=0 #459
+2020/02/20-18:10:08.284 53d6 Compacting 4@0 + 3@1 files
+2020/02/20-18:10:08.319 53d6 Generated table #463@0: 11 keys, 2286300 bytes
+2020/02/20-18:10:08.392 53d6 Generated table #464@0: 14 keys, 2785794 bytes
+2020/02/20-18:10:08.438 53d6 Generated table #465@0: 9 keys, 2613462 bytes
+2020/02/20-18:10:08.492 53d6 Generated table #466@0: 4 keys, 2943875 bytes
+2020/02/20-18:10:08.518 53d6 Generated table #467@0: 15 keys, 1783187 bytes
+2020/02/20-18:10:08.518 53d6 Compacted 4@0 + 3@1 files => 12412618 bytes
+2020/02/20-18:10:08.523 53d6 compacted to: files[ 0 5 4 0 0 0 0 ]
+2020/02/20-18:10:08.523 53d6 Delete type=2 #456
+2020/02/20-18:10:08.523 53d6 Delete type=2 #460
+2020/02/20-18:10:08.523 53d6 Delete type=2 #462
+2020/02/20-18:10:08.523 53d6 Delete type=2 #452
+2020/02/20-18:10:08.523 53d6 Delete type=2 #453
+2020/02/20-18:10:08.523 53d6 Delete type=2 #454
+2020/02/20-18:10:08.523 53d6 Delete type=2 #458
+2020/02/20-18:10:08.524 53d6 Compacting 1@1 + 1@2 files
+2020/02/20-18:10:08.564 53d6 Generated table #468@1: 3 keys, 2944299 bytes
+2020/02/20-18:10:08.564 53d6 Compacted 1@1 + 1@2 files => 2944299 bytes
+2020/02/20-18:10:08.568 53d6 compacted to: files[ 0 4 4 0 0 0 0 ]
+2020/02/20-18:10:08.568 53d6 Delete type=2 #407
+2020/02/20-18:10:08.568 53d6 Delete type=2 #466

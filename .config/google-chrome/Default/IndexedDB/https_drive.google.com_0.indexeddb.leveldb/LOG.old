@@ -1,0 +1,16 @@
+2019/09/23-05:24:27.129 2db1 Reusing MANIFEST /home/vlad/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/23-05:24:27.129 2db1 Recovering log #736
+2019/09/23-05:24:27.129 2db1 Reusing old log /home/vlad/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000736.log 
+2019/09/23-05:24:28.027 1dba Compacting 2@0 + 1@1 files
+2019/09/23-05:24:28.062 1dba Generated table #739@0: 83 keys, 1799146 bytes
+2019/09/23-05:24:28.062 1dba Compacted 2@0 + 1@1 files => 1799146 bytes
+2019/09/23-05:24:28.065 1dba compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/09/23-05:24:28.066 1dba Delete type=2 #737
+2019/09/23-05:24:28.066 1dba Delete type=2 #733
+2019/09/23-05:24:28.066 1dba Delete type=2 #735
+2019/09/23-05:24:28.838 1dba Level-0 table #741: started
+2019/09/23-05:24:28.878 1dba Level-0 table #741: 1787238 bytes OK
+2019/09/23-05:24:28.884 1dba Delete type=0 #736
+2019/09/23-05:24:29.542 1dba Level-0 table #743: started
+2019/09/23-05:24:29.573 1dba Level-0 table #743: 1797540 bytes OK
+2019/09/23-05:24:29.578 1dba Delete type=0 #740

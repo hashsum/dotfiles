@@ -1,0 +1,465 @@
+{
+   "checksum": "bfd99c7000cbee1f386fa264a4ed2b20",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13206913643365240",
+            "guid": "aa403f59-ef1a-43a2-b811-2036c9f58f39",
+            "id": "34",
+            "name": "Library Genesis",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "children": [ {
+               "date_added": "13206913643361685",
+               "guid": "f54759be-49ea-45cc-b7a5-a6c94f6c388f",
+               "id": "65",
+               "name": "GeeksforGeeks | A computer science portal for geeks",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/"
+            }, {
+               "date_added": "13206913643362208",
+               "guid": "785ebe0e-a2b3-4796-a2fd-3b5d1b93c56d",
+               "id": "68",
+               "name": "VisuAlgo - visualising data structures and algorithms through animation",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://visualgo.net/"
+            }, {
+               "date_added": "13206913643362364",
+               "guid": "43aef826-5f4c-4754-bc86-d27668992ee2",
+               "id": "69",
+               "name": "Teach Yourself Computer Science",
+               "sync_transaction_version": "12",
+               "type": "url",
+               "url": "https://teachyourselfcs.com/"
+            }, {
+               "date_added": "13206913643369954",
+               "guid": "ff413c0e-d323-4d85-9838-31459825322a",
+               "id": "45",
+               "name": "Series: Unix as IDE « Arabesque",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://sanctum.geek.nz/arabesque/series/unix-as-ide/"
+            }, {
+               "date_added": "13220470561325195",
+               "guid": "82208afc-132d-404d-a89c-b907736c606e",
+               "id": "116",
+               "name": "My i3 window manager setup",
+               "type": "url",
+               "url": "https://samsaffron.com/archive/2019/04/09/my-i3-window-manager-setup"
+            } ],
+            "date_added": "13206913643360679",
+            "date_modified": "13220470561325195",
+            "guid": "e1494d02-e622-4f91-b547-864b343ba780",
+            "id": "31",
+            "name": "Programming",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13206913643370121",
+               "guid": "b835884b-730a-4ad9-956d-d9a2748ff3da",
+               "id": "46",
+               "name": "The Internet and Distraction ~ Turning Wheel Buddhist Temple, Leicester",
+               "sync_transaction_version": "26",
+               "type": "url",
+               "url": "https://www.turningwheel.org.uk/articles/internet-and-training-with-distraction/"
+            }, {
+               "date_added": "13206913643370294",
+               "guid": "1706e10d-c151-4100-baa4-240af89bd95e",
+               "id": "47",
+               "name": "The Dharma of Distraction - Lion's Roar",
+               "sync_transaction_version": "26",
+               "type": "url",
+               "url": "https://www.lionsroar.com/the-dharma-of-distraction-may-2014/"
+            }, {
+               "date_added": "13206913643366304",
+               "guid": "f735d4eb-6520-4508-8816-a22e7bbb3ee6",
+               "id": "36",
+               "name": "Removing Distractions Is the Best Way to Focus and Be More Productive | Nick Wignall",
+               "sync_transaction_version": "35",
+               "type": "url",
+               "url": "https://nickwignall.com/best-way-to-focus/"
+            }, {
+               "date_added": "13182434707474481",
+               "guid": "2f0ed4a7-86e1-41f6-be50-5cbef57fc224",
+               "id": "29",
+               "name": "What are reddit's favorite books to learn about self improvement?",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://redditfavorites.com/books?category_id=self_improvement"
+            }, {
+               "date_added": "13211393235795035",
+               "guid": "f8d2aa94-557f-495a-b567-2269a21fda10",
+               "id": "112",
+               "name": "The Doomer Go-Getter - YouTube",
+               "sync_transaction_version": "26",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=LUYBWuI5uXk"
+            }, {
+               "date_added": "13211232553294854",
+               "guid": "9791d4c4-50a2-44b6-86ec-471b7d2e7843",
+               "id": "109",
+               "name": "/fit/ - 7-day impulse control and self-discipline method - Fitness - 4chan",
+               "sync_transaction_version": "41",
+               "type": "url",
+               "url": "https://yuki.la/fit/44873326"
+            }, {
+               "date_added": "13213521805546804",
+               "guid": "f1085267-eb4e-46a0-a607-6120e1462b9e",
+               "id": "114",
+               "name": "The Shocking Truth About Ergonomic Chairs. - Alexander Technique London",
+               "sync_transaction_version": "40",
+               "type": "url",
+               "url": "https://www.alexander-technique.london/2015/02/03/the-shocking-truth-about-ergonomic-chairs/"
+            } ],
+            "date_added": "13208602436228706",
+            "date_modified": "13213681484116963",
+            "guid": "15c6edde-2cf8-448d-96d7-f7857a18861d",
+            "id": "78",
+            "name": "SD",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13206913643371830",
+               "guid": "95759c65-189f-45a1-b133-87677130096d",
+               "id": "56",
+               "name": "Sekiro: Shadows Die Twice (PS4) - купить в Алматы, Астане, Караганде, Казахстане",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gamerz.kz/downloads/sekiro-shadows-die-twice-ps4/"
+            }, {
+               "date_added": "13206913643371997",
+               "guid": "1356df69-9b7e-4192-9038-355a1bbfc9ca",
+               "id": "57",
+               "name": "Doom (PS4) - купить в Алматы, Астане, Караганде, Казахстане",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://gamerz.kz/downloads/doom-ps4/"
+            }, {
+               "date_added": "13209387622037478",
+               "guid": "d9730e78-3488-4443-b439-c9b979e2a969",
+               "id": "90",
+               "name": "ИНГУ Стол - IKEA",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.ikea.com/ru/ru/catalog/products/40361655/"
+            }, {
+               "date_added": "13209239634743059",
+               "guid": "e87b0241-aacf-411c-b0d0-ceb0f0f8eaf5",
+               "id": "87",
+               "name": "Офисные и рабочие столы - Стол офисный (1200х800) - Zeta.kz, Алматы",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zeta.kz/ru/product/4494-stol-ofisnyy-1200kh800"
+            }, {
+               "date_added": "13206913643371626",
+               "guid": "4e7cdd99-04cb-4149-a273-2f521b91f23b",
+               "id": "55",
+               "name": "Коврик игровой Steelseries QCK mini Чёрный купить в Алматы, Казахстане, цена, описание, характеристики | Интернет-магазин бытовой техники и электрон",
+               "sync_transaction_version": "26",
+               "type": "url",
+               "url": "https://yellowmart.kz/category/periferiya_71/kovriki_428/kovrik_igrovoy_steelseries_qck_mini_chrnyy_25730?utm_source=alfa.kz&utm_medium=product-link&utm_campaign=5395459"
+            }, {
+               "date_added": "13209414094541491",
+               "guid": "4344b423-8ab9-4296-b1e8-52616cf2b812",
+               "id": "91",
+               "name": "Коврик для мыши SteelSeries Qck mini Mat 63005",
+               "sync_transaction_version": "21",
+               "type": "url",
+               "url": "https://alser.kz/p/kovrik-dlja-myshi-steelseries-qck-mini-mat-63005"
+            }, {
+               "date_added": "13211231152814602",
+               "guid": "dde5a264-a9ff-41a8-aef2-52f4eb571bf2",
+               "id": "110",
+               "name": "Anne Pro2 Мини Портативный 60% Механическая Беспроводная клавиатура Bluetooth Gateron mx Синий Коричневый переключатель игровая клавиатура съемный каб",
+               "sync_transaction_version": "21",
+               "type": "url",
+               "url": "https://ru.aliexpress.com/item/32838679826.html?spm=a2g0o.placeorder.0.0.7b5329fdrfxpiX&mp=1"
+            }, {
+               "date_added": "13209416858313114",
+               "guid": "b96be7d6-3df7-4f5d-b51f-fc2db2f8dd4f",
+               "id": "92",
+               "name": "МАРКУС Рабочий стул,Глосе черный - Товары для дома",
+               "sync_transaction_version": "26",
+               "type": "url",
+               "url": "https://wmart.kz/catalog/ofisnaya_mebel1/kompyuternye_kresla2/44451/"
+            }, {
+               "date_added": "13213898196445115",
+               "guid": "d54eb6fd-c4f4-4a59-9724-da00dfdb861d",
+               "id": "117",
+               "name": "Бесплатная доставка Печатные сбоку 60 OEM профиль толстые клавишные колпачки pbt смешанный цвет для выключатель MX механическая клавиатура GH60 ",
+               "type": "url",
+               "url": "https://ru.aliexpress.com/item/32786920272.html?spm=a2g0o.productlist.0.0.5bac209fJYr7uE&algo_pvid=bcab7a64-14f2-4c4a-8949-e06b6ed891cd&algo_expid=bcab7a64-14f2-4c4a-8949-e06b6ed891cd-23&btsid=a9683076-b99f-4e73-9511-90e56439de9a&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_52"
+            } ],
+            "date_added": "13209153884800698",
+            "date_modified": "13213898196445115",
+            "guid": "8c15755f-d93d-4f97-a47c-5ebc75c987ac",
+            "id": "84",
+            "name": "Buy",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13206913643365704",
+            "guid": "8cab7a35-bd82-44c9-9ba9-b266a830e4ec",
+            "id": "35",
+            "name": "Stuff that rocks | suckless.org software that sucks less",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://suckless.org/rocks/"
+         }, {
+            "date_added": "13206913643369578",
+            "guid": "b159b5d6-94a5-48a0-abbe-8ab2ae5d8657",
+            "id": "43",
+            "name": "How I cured my strabismus and regained stereo-vision at home, using the same technology that most likely perpetuated the problem. : Strabismus",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Strabismus/comments/35bdku/how_i_cured_my_strabismus_and_regained/"
+         }, {
+            "date_added": "13209680830546079",
+            "guid": "3ca9e6ca-3dbf-4814-8ffe-8adb15aae023",
+            "id": "94",
+            "name": "Solved: Re: Lenovo Y510P constantly overheating and thermal throttling. - Page 2 - Lenovo Community",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://forums.lenovo.com/t5/Lenovo-P-Y-and-Z-series/Lenovo-Y510P-constantly-overheating-and-thermal-throttling/m-p/3907259#M158658"
+         }, {
+            "date_added": "13214866919597424",
+            "guid": "9287dd57-e46c-4de9-a225-6fd0ebd99238",
+            "id": "122",
+            "name": "Responses – Medium",
+            "type": "url",
+            "url": "https://medium.com/p/ab4a7c9c6fc3/responses/show"
+         }, {
+            "date_added": "13215451598335745",
+            "guid": "2be6f136-8325-478f-8baf-4cc8b4ca0998",
+            "id": "118",
+            "name": "Go Deeper, Not Wider",
+            "type": "url",
+            "url": "https://www.raptitude.com/2017/12/go-deeper-not-wider/"
+         }, {
+            "date_added": "13215633865034849",
+            "guid": "aa9ef870-0b8d-40f3-a6b4-fba21db9fb7c",
+            "id": "126",
+            "name": "What happens to your brain when you stop listening to music? | Page 2 | NoFap®",
+            "type": "url",
+            "url": "https://forum.nofap.com/index.php?threads/what-happens-to-your-brain-when-you-stop-listening-to-music.81981/page-2"
+         }, {
+            "date_added": "13216648763704859",
+            "guid": "7637ac46-46bd-443a-9b4e-77ea092300e8",
+            "id": "125",
+            "name": "Dopamine - NoFap",
+            "type": "url",
+            "url": "https://www.reddit.com/r/NoFap/comments/51m3yo/dopamine/?utm_source=amp&utm_medium=&utm_content=post_body"
+         }, {
+            "date_added": "13216964322101085",
+            "guid": "c33d0a39-34e6-400c-bdd4-fdcbba9ca097",
+            "id": "127",
+            "name": "Vim is the worst editor",
+            "type": "url",
+            "url": "https://andre.arko.net/2013/09/11/vim-is-the-worst-editor/"
+         }, {
+            "date_added": "13218793408201548",
+            "guid": "49646b6d-9487-4a0b-a3a2-3ab67f8b857b",
+            "id": "121",
+            "name": "Флибуста | Книжное братство",
+            "type": "url",
+            "url": "http://flibusta.is/"
+         }, {
+            "date_added": "13218793417950305",
+            "guid": "1836c2f1-43b5-4b79-8ec4-225537eea479",
+            "id": "124",
+            "name": "Luke Smith's Homepage",
+            "type": "url",
+            "url": "https://lukesmith.xyz/"
+         }, {
+            "date_added": "13219232650066652",
+            "guid": "734a1a88-02e4-4559-bb35-1e96030ea891",
+            "id": "120",
+            "name": "Best laptops for programming? How to get a job at Google? - And other FAQ’s! - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=8ULXqEx6KQc"
+         }, {
+            "date_added": "13219344930550801",
+            "guid": "3ef7b695-477d-4787-ae17-fad4968ac9a6",
+            "id": "123",
+            "name": "/g/ - /mg/ - Software and Hardware Minimalism Generalb - Technology - 4chan",
+            "type": "url",
+            "url": "http://boards.4channel.org/g/thread/73737343"
+         }, {
+            "date_added": "13219691782903853",
+            "guid": "206c42c8-c47e-4725-bde2-541d4ad856f2",
+            "id": "119",
+            "name": "Внешний аккумулятор PowerCore+ 20100 USB-C UN Black Offline Packaging V3 ANKER 8460056 в интернет-магазине Wildberries.kz",
+            "type": "url",
+            "url": "https://www.wildberries.kz/catalog/8460056/detail.aspx?targetUrl=ES"
+         } ],
+         "date_added": "13208594717548601",
+         "date_modified": "13219691782903853",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13208594717548605",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "41",
+      "synced": {
+         "children": [ {
+            "date_added": "13160758709211213",
+            "guid": "7a90f2a5-b8de-4f44-97af-49658e5479c4",
+            "id": "7",
+            "meta_info": {
+               "last_visited": "13163628019063413"
+            },
+            "name": "Six Essential Language Agnostic Programming Books - Scott Hanselman",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.hanselman.com/blog/SixEssentialLanguageAgnosticProgrammingBooks.aspx"
+         }, {
+            "date_added": "13161359019171929",
+            "guid": "333dcaea-4c72-4843-b3d6-a8f2518c6347",
+            "id": "8",
+            "meta_info": {
+               "last_visited": "13161359019175248"
+            },
+            "name": "Что такое доллар. Самое простое объяснение из 15 пунктов » ПОЛИТИКУС - Politikus.ru",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://politikus.ru/articles/60154-chto-takoe-dollar-samoe-prostoe-obyasnenie-iz-15-punktov.html"
+         }, {
+            "date_added": "13162869338223811",
+            "guid": "30701db9-cf99-495d-b576-a7d7220f5313",
+            "id": "9",
+            "meta_info": {
+               "last_visited": "13163628386883510"
+            },
+            "name": "The Book Every Programmer Should Read – Hacker Noon",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://hackernoon.com/the-book-every-programmer-should-read-33b5ef2e532a"
+         }, {
+            "date_added": "13163095794115143",
+            "guid": "cb8f1d8e-80a2-4bf2-a497-8f0046364284",
+            "id": "10",
+            "meta_info": {
+               "last_visited": "13163626393388917"
+            },
+            "name": "10 полезных книг по машинному обучению",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://tproger.ru/books/10-books-about-machine-learning/"
+         }, {
+            "date_added": "13163471415410997",
+            "guid": "12703e30-5a98-4dde-bff7-35ff88e55b36",
+            "id": "11",
+            "meta_info": {
+               "last_visited": "13163471415416887",
+               "last_visited_desktop": "13195983905774377"
+            },
+            "name": "Why You Open Too Many Browser Tabs And How To Stop It",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blog.trello.com/too-many-browser-tabs?hs_amp=true"
+         }, {
+            "date_added": "13163628156151631",
+            "guid": "c157f7b0-faf2-4fc9-840e-a783a2a9ce57",
+            "id": "12",
+            "meta_info": {
+               "last_visited": "13163628156157506"
+            },
+            "name": "Am I really a developer or just a good googler? - Scott Hanselman",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx"
+         }, {
+            "date_added": "13163628162161417",
+            "guid": "aec5127e-25cb-4c53-a9ab-3dbf90a2861a",
+            "id": "13",
+            "meta_info": {
+               "last_visited": "13163628162773151"
+            },
+            "name": "This Is Why Bravery And Bold Action Are Needed To Overcome Fear And Uncertainty",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://medium.com/the-mission/this-is-why-bravery-and-bold-action-are-needed-to-overcome-fear-and-uncertainty-48cfbc81a1f1"
+         }, {
+            "date_added": "13163628195680005",
+            "guid": "05f078cf-6cd2-4e5c-8c93-2b9630885f32",
+            "id": "16",
+            "meta_info": {
+               "last_visited": "13163628195684147"
+            },
+            "name": "4 книги, которые должен прочитать каждый хакер | Библиотека программиста",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://proglib.io/p/become-hacker/"
+         }, {
+            "date_added": "13163628238976388",
+            "guid": "90025deb-1640-4777-b492-98ce2e52ec70",
+            "id": "17",
+            "meta_info": {
+               "last_visited": "13163628238979505"
+            },
+            "name": "How Technology is Hijacking Your Mind — from a Former Insider",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://journal.thriveglobal.com/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"
+         }, {
+            "date_added": "13165093576559177",
+            "guid": "0b19b6c1-7b10-4e8f-9d7e-0f9f3647fdad",
+            "id": "19",
+            "meta_info": {
+               "last_visited": "13165093576562764"
+            },
+            "name": "How I Rewired My Brain to Become Fluent in Math - Issue 17: Big Bangs - Nautilus",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://m.nautil.us/issue/17/big-bangs/how-i-rewired-my-brain-to-become-fluent-in-math"
+         }, {
+            "date_added": "13204655344448819",
+            "guid": "2bbc8ef2-b14a-4a4c-afa2-d52e3e5e5004",
+            "id": "25",
+            "name": "Аренда квартиры: как не стать жертвой мошенников - статьи о недвижимости Казахстана — Крыша",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.krisha.kz/content/articles/2017/arenda-kvartiry-kak-ne-stat-zhertvoy-moshennikov"
+         }, {
+            "date_added": "13204661813373933",
+            "guid": "76d98ee1-020c-4786-a369-744fd2261139",
+            "id": "26",
+            "name": "Reddit - getdisciplined - [Advice] 2.5 year progress, former shut-in NEET of 7 years",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://amp.reddit.com/r/getdisciplined/comments/7mzh7c/advice_25_year_progress_former_shutin_neet_of_7/"
+         }, {
+            "date_added": "13205282961049181",
+            "guid": "093ad2df-cbdd-43d3-958b-ad5db565e3fb",
+            "id": "27",
+            "name": "no more mr nice guy - Google Search",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.google.com/search?q=no+more+mr+nice+guy&oq=no+more+mr+&aqs=chrome.0.0j69i57j0l2.3482j0j7&client=ms-android-samsung&sourceid=chrome-mobile&ie=UTF-8"
+         } ],
+         "date_added": "13208594717548606",
+         "date_modified": "13206742411439735",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CsABCp8BCIiBAhKYARKFAQgCEkQKBgoCYm0QARAzGhsJgBFhL96fBQAhgBFhL96fBQAxgBGLiKWRBQAyGwoZCAIRzYlgRN6fBQAYgJX1KiHNiWBE3p8FABI7CgYKAmJkEAAQMxoSCYARYS/enwUAIYARYS/enwUAMhsKGQgCEc2JYETenwUAGICV9SohzYlgRN6fBQAgAEiKo9HZiS5wu8TFwYMuEgAgASoYWUlyOGpyenFCVW8yTXZzelZOenVGQT09EqABCAMSmwESZlo6QURxdEFadzBRMmEyVmNOTE1mb0ZRWElERG40bkVyU2N3bW90dVU4VE83RlBmb0M4WVB1dFVFTFVvNndPTEUya1ZpUXNoS0tEWk5xbmJOdTNWQW1VaVc0cGNRaGlzSmFYc0E9PRgAIAAoADDmjpHr1aDkAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aABKgAQgCEpsBEmZaOkFEcXRBWndsVSttUzBEMDhNdWw1TmxWbHZTbU5zT3FMR0dNUHp1UFF4VDlWZUdzTkNVLzFHRWpaUGh3alpGeDZYYWM2ZzhOVFBPUGlZVFlzZjkwYXYwTTRRS0JEbXVRYXpnPT0YACAAKAAw5o6R69Wg5AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgASkQIIehKMAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMTA3SUg0dmJLS1poSmRsdGtFdzNXZWgxWkFaK0h5VUN3MEhpYWltTzRuN3pyN0lVdUFYeHRxN1k5NmQ5a2VWcmJqZmExNVFLZ2ZHZW82RUY1Yms3RXJ3bkdvSjRnV09mOG0xNGR1TWZ5NE9kMGJyenkzeTZua3BIeEYvSnJkL2FLWFF4b2ZnPT0YACABKAEw8LGTgruH5wI419Pr5/otQPrW5+f6LUocWk9EbU1ic0kzSnlDREl4cVhCbmxlV3RJTy9rPVomIiT/////AAAAJGR6bzlxZ3ZRQ2hLN1FxaXJheHZuTS90citjWT0SkQIIexKMAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMTA3SUg0dmJLS1poSmRsdGtFdzNXZWorZklmR21lalpKRGxqVnd2cElGcXNHY3N6VlozUFp6NWwzTWJva25zNDFGTkNjcjdsQXpUUHhhYVlBRGV3OWpENUxBeXcyZG14K0NEd0FING5UQVdoY040OE5YZ2RneXowalZnRk4zV2R3dFZXTEdnPT0YACABKAEw5+fPsbOQ5wI42NPr5/otQJiJpfr7LUocakFjTE1TOFdlU0FpOWozRjBjQlVLeDlJb0ZzPVomIiT/////AAAAJW9OOWJwYThUeGlaWnFER29lVUk4UE0xbEdUTT0SkgIIfxKNAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMTA3SUg0dmJLS1poSmRsdGtFdzNXZWt5dzNVTHJaUjM4WFEyRG02TVlIRXRnT3Z3WEllaXRuWkYrUnpjZTFaTmtUekRGOFlWbzIyZnhGendjYUxxczNQZDgzWGgxSlNwSkhuc2FuQ1lkWWplRGxYVDBzSmlGdG1hL3JSSC85bzRyYkpBUmZBPT0YACACKAIwnL3YxITg5wI419Pr5/otQNG+gZOGLkocTEM2NVRBWkR6cDhLc1RSUGhYL2JQaXJKS29FPVonIiX/////AAAAJPZOK0gxUGpWc1prYnp3MWh0TGpmVUhaNzJCMFU9EpICCHYSjQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjEwN0lINHZiS0taaEpkbHRrRXczV2VvNUhQMFpxTTVmV0c5RTVDcW1VSFdOYm94NXF0RE9VSWl2UTc0NjFCQmxsekVuLzg0ZVVoUmEyWHFTdUc5dXJsN24xRktiTDdlTXlRVGs4UU9TMlI3UGE0QWR6U2daZithUFZ6aTh5ZFR1a2FEbTdzUT09GAAgAygDMI+hmJq4y+cCONfT6+f6LUC36sfBgy5KHFMxTkgyMm5ZT1ZocnVrUGd2Z1pYVHdKVjh5Yz1aJyIl/////wAAACSyQWxOazVnVFludXQ1SlNTOWJmYlJyNm91MHpBPRKSAgh4Eo0CEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xMDdJSDR2YktLWmhKZGx0a0V3M1dlcmJudjNSZkErZW9CMkhVZFZLZ0E1MjhoSkFqdHVObnZPMjF4WWJCOWZTOXlKb2sySUwrbmhtcXE2T3doa3FsMTVWK2NpQWNtNGRZa2x4S0huOWhQMlFuSUVPUUhhcm0wb0d5OVBRTXZxSW1QVGlka0E9PRgAIAEoATDn58+xs5DnAjjX0+vn+i1AmIml+vstShxoNVUrQVRTNXRublVQRkQxN0RxczFOT0xhclU9WiciJf////8AAAAk/i9jNisvZlR2emp3UWVQUk9qbFdZelFFeHVMWT0SkgIIfRKNAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMTA3SUg0dmJLS1poSmRsdGtFdzNXZXJkNUxOZ3BmM2JoR2ppZTRQQ3MyREs2bDBzckZIVDg2WEZlcVdDSUR1a3ltV0FWb2Z6MU9QMkRINDV4SklPZUJWQXVZUmVqRWZWc0pkbi9Pd0xKdHJYM2VZaWNUOHlXRnpxUnA1SWk4ZUNYN0FmNDdnPT0YACABKAEwzeSWqbuH5wI419Pr5/otQN7I7Of6LUocYmlicGw5MXk3NGJzSjQ1N0t5ZEVlWlZ1SFA4PVonIiX/////AAAAJOx0TXZkK1FRS1J4Z1k1WVZYbEVWVG9JN2xDR1k9EpICCHwSjQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjEwN0lINHZiS0taaEpkbHRrRXczV2V0VUxsTVZNT040cC9rVWRaY2pwNnJENWFZbzhJRVN1MHRFbVY3aHZsV0dLZC9mZXIrUk13V2hIS0hWQ0tkYkRxbkVvRk5ycHQrTUl2UzdxLzU3eGFVL09IQ0xyZVh1bHc0cThLQ0FkaVRFZzQwRFBFdz09GAAgAigCMJy92MSE4OcCONfT6+f6LUDSvoGThi5KHEt1dGpSSHFCV3k3VStxUFN5ZzJ1cmFGMldpST1aJyIl/////wAAACT9YWdEa2RxQmhneDFxOXprNHNIRndOL0x2VlRNPRKSAgh+Eo0CEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xMDdJSDR2YktLWmhKZGx0a0V3M1dldThTU2dxY3N3K2ExTWxBMmZhd2lBcm5TSUU1L2NkcnovZUthZHhSNnJac3ZyK1F4TlZSN3BQU3czRWJHNEtuQ1ozUkJLRTFDd2tDSExuRTdwRC9tR3lTWHJOU2oxU3dVV2p3NUtGTU9ObUNwQ0NUZmc9PRgAIAEoATDN5Japu4fnAjjX0+vn+i1A3sjs5/otShxFSCtZd1lLQm9abWZ3VmNKMkhvZ0JLYkg1VUk9WiciJf////8AAAAk2XM0N01nVUpxSFMxazBxQ2NtdHZERnFzcGpZZz0SkgIIeRKNAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMTA3SUg0dmJLS1poSmRsdGtFdzNXZXVnak45Q2ZteE41OS9ZK05Nd1hlM3Blanp2WjBVcE8xRnRtZnM2TnpKMklvNno0TE9OTjZ1MkczdHQ2eGJ2eTY3dEozWkdSMjdJRVhYakE2ektPd2ZuWjFnUHNTcFBmaTBLKzNpZWNVTWc5OFdUaXBBPT0YACACKAIwnL3YxITg5wI419Pr5/otQNG+gZOGLkocajBGM29xcUF5YUVRZFY2L2JiNjFNc3lwbjQ0PVonIiX/////AAAAJPtwY2pXa2V2aVRML3pzSWJlVnBVNU93UkxwbzQ9EpICCHcSjQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjEwN0lINHZiS0taaEpkbHRrRXczV2V1blYrWXlPQzJ6K0pqUmNSWE1IRCtSdC90cVFEem9PbkFMZHNEbytnenMyMGNWb3o1ZUNXSDd3NEpNWjAwbXNpU2dHci9oSHcwK1MreGx4NDh5c2VQdFJrN0c0dVVjbUI4eldlVkN5djhiTzZvNEtuZz09GAAgASgBMOfnz7GzkOcCONjT6+f6LUCYiaX6+y1KHFVrQjJBWVVGcS9CSGo5dzhaNDR4VEdIYVNyQT1aJyIl/////wAAACW3bUEyR29tVFhOVkFCbjUwdXY2ZG9mcktqeE40PRKKAghtEoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xRHVrS0lIV05ZRktGRUpqazhMYUNTREV3b3VzRnNyc2M4K0VwU0FLVHI2dnpKcjRBT0hBMlVVSXI4MGpvUHlPN0kxbVZDYjlPQkQydnVSbHBHaFYyeWd4ZGhXcGxjUS9TdWU0VmVHWHozS01JQlhxMWpQTTNjcmsvczBwTDNSaFpvMzJ3MGc9PRgAIAAoADDDuf/x+uXkAjjQwvHQzC1A0MLx0MwtShxrYkNPQ0JRNzc4eHpwUWhFek9TT1pZR1dkWWc9Wh8iHf5CMzRZTTdqUFRkUHBpYTg0aC9YRGhCZGZaTkU9EowCCBkShwISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFEdWtLSUhXTllGS0ZFSmprOExhQ1NFU1lvWWZybUc3M2lQQWtyNGtuOFpPVFhMZUdiaFplUHp4M3hJaUZkcVJTQ3VoQy84UWlZdE9RTTMydWpBL3M2UHBnemhuQVduSGIrWWlvdnU3UU5neVJsTmg1N09iSTVqLysxZVNEbUpnSTR4N0xGUT09GAAgACgAMJ7ptLe0seMCOOmcvtK+LUDpnL7Svi1KHFYxVkgxU1BYUEFTdlpGSXp5b2Y4b202ekRlaz1aISIf////Ulc1Ly9IRm0vMWgyZzIvOVR0NXE2akUzQlhRPRKNAggbEogCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xRHVrS0lIV05ZRktGRUpqazhMYUNTRnlVaGhNbUZxUmNDUE5IK3JhSGZlSFZoSU1UN1dndXZXKzRnWk1jY2VSVllKODVJbGYxWEs0T0Qwc0lKS2tQMEt2RXZUeXpLKzJwdXV4UGg3M1lDc3lVWlNQZ1lNWXpqYnAzZlNIWVA3ZXZlVlg1bWc9PRgAIAAoADCe6bS3tLHjAjjqnL7Svi1A6py+0r4tShx6dThjQ0hlYjF5WmMwUWtSWHl3SDBhSnkwREE9WiIiIP///6xEdjBNdUdtandNMGViTUFqYkJjeHRXOEluNmc9EosCCFwShgISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFEdWtLSUhXTllGS0ZFSmprOExhQ1NHRWFtVjlyZll1ZnJ2WnJYVVdDcVJkMzNQeXlPMkNNOGFVNWVMMk5PZU9ac3ZkNWFKSGxvK1RQK2FhMENVUXpJTXlPQm1ITUNsMmhFcUVoQUdxV0JsVlRYeDJHcXBodHZIWkJCWFpQZjRCVWR6dkdmZz09GAAgACgAMP/Poay/rOQCOMuljO/FLUDLpYzvxS1KHEVzeWlkWVhNNWQrUm9QdGpNZEFBZU0xS1UrWT1aICIe/9ZkN3hwbGJETGlHaFcxN2hNS01qaDhITDkvaHc9EpICCF4SjQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFEdWtLSUhXTllGS0ZFSmprOExhQ1NHUnpXV2pPZHRnUTZ5cjdneUlsNnRUajdHcDRVektyOWdmQTVrU2EzSWU4QTMvOXZsWldRWitzelNnUEJncVlScFhYM2hXTHFRMm1ibFN6akh6WHN5Y2tTZ2JXeEpxVzF2VllQMkthYmxia0ZZS0c2QT09GAAgASgBMPzI07y7h+cCONTw++zGLUCVw+7n+i1KHFpKNnBSMXdKeFl4UHZKZDVmK3Q1MzVJc2RXYz1aJyIl/////wAAACP+QWsvRVNCQmw3T2JPWTZXSFdydkN6U3EzUWJzPRKMAggaEocCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xRHVrS0lIV05ZRktGRUpqazhMYUNTSWRLUVROZnV3TUlnOHpEaWRlMUdqamViWnNLZmtJZ21QclN0VXRnVFZnVTRDZmgwYWxBYXhEYUJxc0R2dUo0WEFwcXJtQ085VngwYnlkWXd2NENITzVvNDRTZDh3Yk14LzcwQ2NaZDhNd21qL0M5M0E9PRgAIAAoADCe6bS3tLHjAjjpnL7Svi1A6Zy+0r4tShwrUENoUGU4VDNKTXFveVozN01KZkNTVHpaMW89WiEiH////1hsTk1nZHQ1aDlFVkNRSWhGUWl6K1FoallyRT0SigIIVxKFAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMUR1a0tJSFdOWUZLRkVKams4TGFDU0tXQzgwNGl3L3Y0Qis1YUFZeW9SVmRYVSs0bUthOEhjREpJeWxnb1VaYnl1MlNtRXZPMGcwdXdqeC9uUEcwSm5NcUZ1cmN0WnRaZjZiR01IMWkwTVkwWVV0SUhUNDNTaDJZak9Yd0x1UjFVdkhJajJ3PT0YACAAKAAwrOTDrd7p4wI4uLbLmsUtQLi2y5rFLUocZFhjblM1VkVTYkt4VEZwNEtpaUUxZzRwYzBNPVofIh3dcEwrRXlpeE9oeC8rK1pqV1lBWXZ2ZjVmT0E4PRKKAghwEoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xRHVrS0lIV05ZRktGRUpqazhMYUNTUENpZi9XWnBYSGtrOFF1MCs3Y1ZpcHI2cVg3WlByNCttTC9oYWZPNFE2QnF5cVY1WVg0NWlpUGxLbDdwQnc5bVk1QTd6ODUvc2ZiMXBrVTFGNDR3V1pnekx1cTNKSUJpYW9MOGNaemZPVUxBVG1jcnc9PRgAIAAoADC4jJyvpqzkAjja5sCdzS1A2ubAnc0tShxZajVuQ0U3cVp1VjYxUkc1Vkd3NVpUQ3RMd0k9Wh8iHf1sM0JFT3lmMis2SWVkK0h6dXhielFCUmY3TXc9EosCCHQShgISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFQQXZ2K1NHYXlNVnlDVHV1RkN4QmRGYTBiQlFYNHNraSswZ3l0SUpybkF6dmw2M0M3dmRoVUdsZjNRTUFBaE8zZ3dUaWVZZ1VXNzdDa0ZsejZDTjJicUtmNEo1Z2dwZXcvdHpCaWNFQmllanVNYU9CQ3dmMGJTTVdsSFJOSmt6eW05M3puQT09GAAgACgAMOKtupvGq+YCOLDk9IXvLUCw5PSF7y1KHHYxckdsL0E5aldNejZkNGhHUWIvSjkxOWVwcz1aICIe//NTK01QLy8wb294SFVEL2ViYjJ2VDBMU2l1ZHc9EooCCAkShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFhL3FkcXNXT1F3ek5wWnRxMkcyeWJDVHVLZVRXYTNXdzJBRVUyckpIbGZNbzllNHdhVk5GWkZXT211ZVlhRWlENVN0eXJxdFZCYkVuOWRpYWpIcC9PNkl5dElKMS9qVmMvNFFFWm5iWk1ySTY1WWQ1NkFaK3ZZZW1qWEV5TUlQVzBDbk5Kdz09GAAgACgAMNv0j8qctdkCOPaQwbuYLED2kMG7mCxKHCtSdS9WYk9WeS9Nd2x6dFIvRW9oSW9HNlRORT1aHyId/nAxamhJUmhGWHB1TDh0Wml6NHc5TG15VVdFaz0SiwIIEBKGAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5YkUwdVVDR1BmY2dZRGlkNi9rcG9GVTlTYjNHTTYxdU5sZEJUblRkVW1mVUNIak84YXdhMkhLN1RvMWJXNmJyWmIwSnpBa2luSERaNzJUREMzd2ZzekV2S2wzcEJIOFpmZEYwNnliUERhNHlSRWxCWjNBPT0YACAAKAAwne677pu12QI4446upZssQOOOrqWbLEocVjNFQmQvMFpkS0FrREZCcHF2em4raXNtNmRBPVogIh7//VFNdHlyb2NvZG1ySXA1aG03L2VEaXQ0ODZWWT0SiwIIERKGAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5YkUzdzhYTFJOT1E5RGYwc3pORUNCT3gxOUpSMENNbVE2dVFOQ3I0azVkRjh6WlBWSmN1VkYyQWR6M2NpMnAzWENFanhmTDZweTc4ZkVzcTBjVFB6M1ozc1VuRXkvQ2I3ZC9mVDBqajJBNjJSZEJJVDZ3PT0YACAAKAAw8Kv7g5y12QI4guGwpZssQILhsKWbLEocL1htRjlUeGl6S3JFQ3Q0M3BzSTdjWTdIbWVjPVogIh7//0pCbXRIU25VQVF0OS9yNis1Uk1OWnRuTnJQaz0SigIICxKFAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5YkVMaDhtczRxTDZ3VmtOakRaemxtTFhoMXVQSEo1YWZWc216ZDZ2S1hKT3E1T0ExaVJwZkZVTDNaWFJGNUFjWm8vUFBpVWMxWGVpN2d6Vy9mTXA1ZnprMmh2NytuMmhVK21JbVYzZEZkTXJDeU1QRllnPT0YACAAKAAw6bT4pvLi4AI494DN2posQPeAzdqaLEocTHMzYjJIQjJMMk1BcytzeXgzakZNUkEyOW13PVofIh3/aXd4eWdkUzFOR2txMm1uRk1NM3kzZkxna1lrPRKKAggKEoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xYS9xZHFzV09Rd3pOcFp0cTJHMnliRjlRSXpNd1c4S21sQjQ3MVM2KzhFeWk5ZlFwMENSWEhmSVN1cHRUUUc5YkpiYTEvcnJLNVZXWlhHb01oYVJsUlRMZ1hoKytvKzJDOEl6d01NWTR6OWtDWEhDcFdqbTdsUXZueFQzeUpxb0ROTUJSUGc9PRgAIAAoADDEt4uUlbXZAjjM876nmSxAzPO+p5ksShw1bElYaHN1RS9zRFF6bGppRVgrTXRaNlNUaE09Wh8iHf9leGZJRHlzNGdyaU5RM2xnRGMxSDNLdnZuOUE9EooCCAgShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFhL3FkcXNXT1F3ek5wWnRxMkcyeWJHdXp1djdkOW1BbnFaVkZTQy9ZdDNZMysreU5QcFdhaUgyTDFhUXdGbVFsdVh4c2ltb000dURTNHcwOWlmNVd2c3MyR3ZDQkVpWjdkMWJ2bElMbVJpaTRKS1JVM3NNeUNGTG9aQ3cxcGhrcWtKaEsvUT09GAAgACgAMMTZ38SW89gCOKbJquuSLECmyarrkixKHFhDSTViY0p0N2lXeHlxeHgvVWhXdEpzTE9pYz1aHyId+HluR3d1Z0JwQjVKY2xSbS93OTUvYjQ5YW15ND0SiwIIDBKGAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5YktHNWtjS1lLWlJXcWxMRG9BSUc2S0krT3l4dktQL0hwblkwcC9PU3NGMjJPdzJuTGlSUnZvNXhkWlJ6N05RS1NMZ0VwZVJWTy96aXFUTGlJTm1EUGcyS0lqUjV2bE1BbUkwNWsranZENUhnRjhWRWhBPT0YACAAKAAwxsPlvbaF5AI4/NmrpZssQPzZq6WbLEocT0hGMVdkV0hBNjVyMmpRTHFZNGRTRXEycndJPVogIh7/2kFYSVMxamdOV2tJMGV2REJpNHVZSDExdUgrST0SiwIIDRKGAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5Ykw1NnRtbmpwNGREZ2RUVHBEbGlndndFd3BFeHV1c0g5bklRbFc5RndiRGppRjJDOGhGRmhCbHoxTVFORVJNdCtMNjFHTjN6SjI3WWFHcmlISGV6RTFyVG9oZTZwMDFqWXo3aHBuWDFuV0EzZ0Z3eVZRPT0YACAAKAAw3Lin35u12QI484ispZssQPOIrKWbLEocY1Z6UzNOSURUSDZiSFdMSHYvdnp2Z2NnRDQwPVogIh7/7TRXQlhkNkxoS25FYldRd0ViYUs2SXlUWlJlYz0SjAIIExKHAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMWEvcWRxc1dPUXd6TnBadHEyRzJ5YkxDL1haNFNCdEM0dzF4QWR5bmhaMG44cjV3VzVEQ0VVTlJrU0VjMUkyRXhQVStacVVDUXN1Nmw0cnd5dXV5L3BMS3ZrY2NPM2c2cXVnT1VvUlora0gxT0tYQ2pBVzhTZ3JzbXFwUXBZVHg2V0J6UXJRPT0YACAAKAAwnMjX7O7f2QI48e6N4KAsQPHujeCgLEocOEUxSC9seTZHOHl2ZHRyV3FHOG8yOHd2Y1dRPVohIh///7M4S29hWHZ0eU1qWVJzRmRncnh0Q05rUndXNHc9EooCCAcShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFhL3FkcXNXT1F3ek5wWnRxMkcyeWJNV2REYnFSRUNjdTVDeURkdk1wenRobmh6Tzh2aS9ibVdseDhZUEFHMWdYYkZrVElYK3NVMTFoTm9IMytQMENGYjlnYVp6bjJ5WHIvcjhIdkp0SjRsRW52emNkRmxFWWFmU2Z2T1JqdkQvRlFMZEdCUT09GAAgACgAMLWDjZubtdkCOOXHis2QLEDlx4rNkCxKHGNNTFY0ZDhGK01oT3RwY3N6MEpvWFdGRGlVVT1aHyId8FhpQmlKV0wzN1ovNHYzUVFSWnI0Qlc0Um9Fcz0SigIILhKFAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRWdTcDNHWXpVaTFCdlZnK0UxSkRXN2ZnM1VCcWZNcy91L1JoWHg0di9yVkg1U0lsbmZVazBxb2ZQQkdwSTlJbDFZVG84WjVZV0hJdUtoS2VMb3pWQUhKdExXSDFSc1VrN2pnZjhyNno1L2lEaVh6QWd3PT0YACAAKAAwzuKwhqes5AI46pa8xbwtQOqWvMW8LUocUVdWMnF5WTJnRHZ6ajN2RDlaeUhLMG42c3JZPVofIh3bNzNscFBhSzFMK2dWNnJWWlpFOVJHRi9qaGc0PRKKAggvEoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xcnBxcThpOUxMdVB4emJlYXhNUm9FaTJtcjJSWTZNSGpGV25VdVpnUGovazZnOSsxQXhTMi9Nd0luTFNRc05oRE9wQnlFWTJVelF5dHBlY0cvREIya2F2cmc4d0ZnZngwQkh2c2NjYm1wSHU4ZEZtTU1RQnRqVGZ3eFNsUUVYTlNuR0RLZ3c9PRgAIAAoADC2uLaMp6zkAjjqlrzFvC1A6pa8xbwtShwrQ1kzbnZVRG40cU1Na2JoZFkyUmp3TXY1OGM9Wh8iHe1IejVqQVFyUC96MmpoNmlyK3ZQdEF0TnFMMkk9EpECCCsSjAISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VqVDdHRzhhdlR2LzVkazFUeUhjS3cybUNsV2tnL2dqa2s4R3d3cTRGVUg2MU5QOTZxVUdPQ3llMDRPLzFIU21rZkZ4TkUza25mVHQxYld5cWxpbm0rTStaR0F6MnFTeWJ2TThOeWZwYVFwNG0wS1gwUT09GAAgASgBMPzI07y7h+cCOOmWvMW8LUCUw+7n+i1KHDIrOU85NlRSYWJ0bWlJaXphcGpEZW9IdUlDMD1aJiIk/////wAAACNzM1ZiNDA3Wlo2VEhQa2cxcjhjRnJYb0tOYVk9EooCCFoShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VrNDZFWXlOQ3ZMcmFoeGhucHlzeVpRcFVFY2JxMFRWMG9TU3VRM3dBS3BWYTJ0cGFGQks4NW5kWE45Nk5Gek5SSGt6V0ZFeVlWdk0xbTFZTkx5bWF3MWRzS2dlZVFnZXlBQXNzUmFPY1psNnF4bjhNQT09GAAgACgAMJe0iaze6eMCOJftk+HFLUCX7ZPhxS1KHE9SZ0E2ejc4MXFPbFVKa1Zka3M3OWxoeE1VMD1aHyIdulRVK1V2ZlhGZ0pLN1E4MzFZamtjS2JpV1p6MD0SiQIIORKEAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRWtNNUJ5QkdDZmZCejBnZFpSck51YVlmRWRLNDFsWWt4N1pLQlE3Qi82VmhxQXR0L004ZU9MSDF4TzM5OTUya1hQaitYZ3dqM3RyNFBiOUMxM3NyRWhzN1I4RXpNQnZGdnl3TzR3VGxQMWFFWTI0bm5RPT0YACAAKAAwiJzVqZji4wI47Ja8xbwtQOyWvMW8LUocU1JkTXlZOEQ5M2Jucml2N1NodVhzUlBWeWtFPVoeIhxPVkFsT0svNzJBYzBCUWt3K0E5WkZqUFZyZ0E9EosCCG4ShgISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VraS9pUHM4enpCR2thcWljWlhFa0VScko3K0NZamlkV1ZPMno3YnJhUUhhYlgvVVNqUWJxR0N0aDBydm9XazFYSjdhazdQQUFqbG0zZURuRE1xK0xnYjFMbU9YdUxUUnJyV3BrR3VCN1U4VDU0OElJdz09GAAgACgAMPrxoeLSnuQCOK6FnNDMLUCuhZzQzC1KHGFmaVVKSEc4NmJlQVd1RnZmeHFYKyswaWlSND1aICIe/61YTE5jUEJlS1pMaktiVUxyNUkvejVQZE8vUlk9EooCCEUShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VsZDlINGxlaUdZRXdzaVBGdlRnWWJpaGJvMFEvdGNXRTQvcVRWc3MwREExc0VxcVlxSk5qalhScVpHK2J1NHZLT1RrelZVVzRJSGV5TUduNVk5OU1lR1M0UmFBZkZ2eHpTT3F4SzdpcjFjaWEyOXN1Zz09GAAgACgAMIOp0NG8lOQCOOKWvMW8LUDilrzFvC1KHG9RU2YyWUUyQzRVbk16RmZJMHpKSmtwSlBBOD1aHyId/XV4c0FmYksrdGNQNTJRbk8zYXBKS0JnSHJjYz0SigIIJBKFAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRW03a2VER241ZjRZV3VnZkMwVTZrUnQ1cjNReVU2OUxJQXd4ZDA1TGhUdWEzWmZ4M29US2JKcFAxVnNnTURkMFBIaCt1cGJlZmRTcjZaM2dBTVN0WWJVdUhTTVZ2bFN5anptOTJIeXVuUnprakQvMHJ3PT0YACAAKAAw+56PiK3O5AI45pa8xbwtQOaWvMW8LUocSUJYUXdkbFZHNnRhdFpxSnFTdWx3dUZoOUN3PVofIh32aDBYZHB6NHU1MU5BRk83b3FvbkZUL2VFZTJnPRKJAggiEoQCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xcnBxcThpOUxMdVB4emJlYXhNUm9FbkZucElHZklseEVqVnllYUQ2a3dQck43SjFVUEEySnMrTldpSWRQMEdwSFc4TXVIUWtCOWZYdXJrb3owT0dURGFRWEpNQWRONGFwNjljZXBaRTllK2xKa2FiYTZjdWRzcnl4dE5BWERvbWpwMzRkbHc9PRgAIAEoATD8yNO8u4fnAjjllrzFvC1AlMPu5/otShxYK0F4bnNqMDY2eldlcE5ta25IM3Nic2tMMUU9Wh4iHGIyTm5NNnBFNlFFcXlBM25Sb1E5NHYyaUVYOD0SkgIIHxKNAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRW5mckt0QnBKaUg2RzRFOUN2S09KYWROTlBSTUVDYkZUNkxQUFRPUDBWUWdPdUpoYlFkT2xzbWpGZVdTRVJLQXE5dEtTdlUybFZibGRRalZvOGJ5RVhTOEJMdHI4VVozeGxGVDRLbGZpYnRTaDQreVlBPT0YACAAKAAwzdry3v6g4wI44Za8xbwtQOGWvMW8LUocTE42eHZSejA5TFB0WW0zc3g4WjdiR25Pa2xvPVonIiX/////AAAAIe5XU2FqVnJZZXNKSDRBNXRxNlF0UlpENzRJWXc9EosCCHUShgISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VvSXJCWS9pN2tubDNNQWtXREV5bDVMekhqNGZQS25pY05MNU9DN2RRWmViTXU2dys1RHRRZkhMY3F4MU9PWWNyMWlYeERyNmZLTm1QbWExaGNsNmVVaHl3dElpamZVMkYvaU01NThwOHhMN3dHbnpTUT09GAAgACgAMK724p2i7OQCON27+8fWLUDdu/vH1i1KHFFlVE9WQTFyVHNDVGdDNG5GSWh1RTZiSmZQUT1aICIe/+tYNWxMSDJpZ1ZHb2ljSFJVSkVLOEg2UGpGRjQ9EpICCFQSjQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VvaHpVM3VLeFF2YzFPQ1h5bEhLSmlIZ01QNGN3N1FuMDBUWUlITnZjZ25QWTdoeG5VSGRBVEJTSGhyOWpJSnhVd1Zxckx3LzFuZmtYaG90SndjL2VQQnV4OCtuMjlaNXZjSlV1TWhEYjFNYlZ3WmdpUT09GAAgACgAMNKKuaiY4uMCOILV2fHELUCC1dnxxC1KHGl0eUc0SE16cEZBc1F5cml5NXBGYjUxdzlxND1aJyIl/////wAAACH8amZ0S1dLSzh5cXh6dWVFVmVpZEhkbWJuTWNRPRKKAgg3EoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xcnBxcThpOUxMdVB4emJlYXhNUm9FcHhncGhYZmh4UHYwQkhQOEd6YnN3bXhjMW5aaDNBWEpmWFE3U056MDRWWVFYa3pETTBGdk9FOU4xNDJOYmhQYmllM3A2YmFTQm9yS3dVcnQvSmdPOHNLa0pWSitoVEtZUG90TDRQdGY5dnNPd2kxY2c9PRgAIAAoADCg5tCwp6zkAjjrlrzFvC1A65a8xbwtShxON2hjdEZoWC9nUjIyWHlDZFlDM3U0eXFTSVU9Wh8iHf10V0hYZjY4ZnFiSTRPS01WNkNud21pTHU0QXM9EosCCC0ShgISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VxbTM1SVo2MzZBQkpGTHZiVU5kZXNrVmw2dDVaTjJhZzBacXk3RitCQllVaFppZHVneHdLTGxyVHZaVnp3OGk4YVBVYUxrZ2doelF5OUJ5M1lmWXkxTk5ib0hsMVNsOS9sQjhqWG9hOU9qbGxoL0tNZz09GAAgACgAMJGKiJ+Y4uMCOOqWvMW8LUDqlrzFvC1KHDFKaTI3WmZERkpNT29JZm51TitOSTRpZzQ4ND1aICIe/+diZUNBWHVPbEpaSzBqcWxMckpsM1F1bUdWb1E9EokCCDgShAISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0VySzZhOXA2NDhEdXdPeVppT3RzQ29BLzlEcmhLNHpRa0JJRWs5UGNLcFM2YXd3SnlwWFMrOXhhcEY2Mm1jbFlpOVpPUHJOVjIyZjE5TzFuZkswMXllc244ZExhcGpCT3h4d3pRUFlxek9kK0EwM21ldz09GAAgACgAMPuGyamY4uMCOOuWvMW8LUDrlrzFvC1KHGxNTGxNNnppT01rQ1JtQlNrYkUwUVlSZzl5ST1aHiIcOWdXSDVabDYrUGtYWWpLL2NkQjBmbS9wRWlnPRKSAggjEo0CEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xcnBxcThpOUxMdVB4emJlYXhNUm9FcnluSzgzQythNTI1Z3NyV3R0M3E2ZnoxaXp5bTNSem1CQ0taMWxmL21YYTRXcjJ6MjhjYXpNZXZuNWJ4TDd1aFZTTlNOcENidS8rZ3I4clZFWGcwUE5UTE5HRzFIR25ZRUlpZ08zZTF1ZkVJUVBzZXc9PRgAIAEoATD8yNO8u4fnAjjmlrzFvC1AlMPu5/otShxZTDdjQlA5cXRTVEsxYWJ5TDA5TkRUcTRSVjA9WiciJf////8AAAAh/mRvWkNIdTZ4bGsydkd0eGthbVF6Q25ydVpVST0SiwIIWxKGAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRXVWaE5uZVJNQVkrZWh3TWVneEtKZng1U3ptVWhhbXlncDBudzN1UENEODRzejg5aDI2emdyV0c3KzNPaUZ6aXJHOUxBaStGeGFJWXdPOEEvUmRPclFFeWxJOW1rbndVc2kyK2dMKzVyUGZYd0VqWjBRPT0YACAAKAAwq72G99Ke5AI4zc3j7cUtQM3N4+3FLUocQ3JLOWxybG1tR1c2TmpLMnA3cEpnUDBPNXg4PVogIh7+ck95QkszU3E1UVJCVzFaOFlUb2FHVFdaSXUvQT0SigIIchKFAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXJwcXE4aTlMTHVQeHpiZWF4TVJvRXV4dkF5VFpDMFRJYXVidTRDdFIwM1puRmlsWGFXV2lQbjM3di9tdkVvNHhMTlhrc1VPTnJiRHNFVHd1Q0VzTHBYNFNqVjRDODUyMDU0djZSaXQvMUNuMjFnOHZIYWxyTUdtNjBBeWt6WUNHYkpvSS9nPT0YACAAKAAwtMu8iKjh5AI467G+lNUtQOuxvpTVLUocWUpIOWdCVnFDQ1h5b2MxY05acVZWc2xaTTlzPVofIh3/M2dhNUJJd3h5cWdFbFBOZDUzQzZlZXBlS0VrPRKKAghEEoUCEqYBWjpBRHF0QVp5OVBlYng4dEV1dUdkZjk2MUVzL24xcnBxcThpOUxMdVB4emJlYXhNUm9FdmVzWktWZ0I5OFFMQnIxYTNiaHFUb3Nwb3BjRi96Qy9BZ3RjYmRndEpVN0FwTmx2L1NPQkwrS0ZmWFZKbk5waFc3MzhpQWFBeW50K2RoQVhxM1k3TUtJWlJoOGYwcUttdkYwN0h2T2JKSFJ6RWl3dlE9PRgAIAAoADDN2vLe/qDjAjjilrzFvC1A4pa8xbwtShxFN2k4MklzNXdydVhUdXo4cnhMbmJCN2luUVE9Wh8iHftnTi9Na1BXU1NRV21JbDBpSVVZTEFNdjJKems9EooCCEEShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjFycHFxOGk5TEx1UHh6YmVheE1Sb0V2aXJXN2o4Sm1VbDNMQVYweWViVTB1UytzVmVOV2lXWVczQjI3THBqYnpVeFNBL005Z1l4RUVqbTJLUVNpOTNTQ1pBdFRja1VmbytvT25LZ1U5bFRNdzd6cGJGT3BOSmtYN0htNldiNTJ1ZDNzTGRHdz09GAAgACgAMM3a8t7+oOMCOOGWvMW8LUDhlrzFvC1KHEpreGVzS3ZKa0c0NGd3bmVMUU1XbkNEa2JGcz1aHyId3DVyaEdwSjR3UEllaTNSVU05MWl2Y0JSZC81RT0SkgIIThKNAhKmAVo6QURxdEFaeTlQZWJ4OHRFdXVHZGY5NjFFcy9uMXdQc3M4ME1WMGg4T3FBYXV4cFBXV0xhVUM4R0VQS0FKL3Evc0pyOWgvbENoL2dnMWR5UmowRTdGdkFtUm1PWXc0VTN4M0hjS1czdFFncU9uTFBzSVZ6Q2Jzc2ZQNS80ZTRlM3Btb2s2MXpORHQyV0FIbVZROHdIWTZVRWV0UllIbGV3dFFBPT0YACAAKAAw0vSXgJLS4wI4hPXf6sItQIT13+rCLUocZ2o4SGYvbzFSOWdydmpRME4xbEZrM1NMKzBvPVonIiX/////AAAAIfxlSlpzN3YrWWYzNjdudTRMQWJjdnZaYWJtekk9EooCCB0ShQISpgFaOkFEcXRBWnk5UGVieDh0RXV1R2RmOTYxRXMvbjF4MmpLZ3piMTRNM3lHN1cvdm9XS1M3YlZ0UXFJTU1WRnFqTnB5YkVPRjB5blFrT3VkMFJCQ0lLYWJncHlvSEdKNjVyUVprYUxRYWdqTHlqaHJBVm5ZMjc0RXBHby8wTjRKYkprUHVMN2VLRkhGN0gwWC9CUEkwaWFCYVdSWHhkWU5qZS9PUT09GAAgACgAMOLWl4WY4uMCOJLAgK3hLECSwICt4SxKHHNocXJ6RHMwQVUxdFJOSENxK3BlYVdBNm5lZz1aHyId+2VaV3R2Q1Y3SVgyckdiQkp0RlJEZkpHNFR1cz0SiAEIARKDARJOWjpBRHF0QVp6QUJKZGJ6aStCNUg5NjRhbis4TlNicmF0MllnWEpUWUo1Yml2dklYc1R1VkxYTXl2QncxL1hKY2Z1UXdYWTlHWURxU1dEGAAgACgAMOaOkevVoOQCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoA",
+   "version": 1
+}
