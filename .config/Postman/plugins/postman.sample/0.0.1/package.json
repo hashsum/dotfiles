@@ -102,7 +102,7 @@
     "async": "2.6.0",
     "commander": "2.3.0",
     "console-emoji": "0.0.2",
-    "js-yaml": "3.10.0",
+    "js-yaml": "3.13.1",
     "jsonschema": "1.2.2",
     "lodash": "4.17.5",
     "package.json": "2.0.1",
