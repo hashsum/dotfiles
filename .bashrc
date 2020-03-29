@@ -128,6 +128,9 @@ alias javaf='java --module-path /usr/share/openjfx/lib --add-modules=javafx.cont
 # Enable vim mode
 set -o vi
 
-export PATH="/home/vlad/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vlad/.vimpkg/bin"
+#export PATH="$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vlad/.vimpkg/bin"
+
+export PATH="$HOME/bin:$PATH"
+
 if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 
