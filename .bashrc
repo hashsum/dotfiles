@@ -119,10 +119,12 @@ fi
 # Aliases
 alias r='ranger'
 alias ub='cd ~/Work/umag-backend'
+alias n='newsboat'
 alias g='git'
 alias gco='git checkout'
 alias gcm='git commit'
 alias gs='git status'
+alias up='cd ~/Work/umag-javafx-pos'
 alias javaf='java --module-path /usr/share/openjfx/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.media,javafx.web,javafx.swing -jar'
 
 # Enable vim mode
@@ -131,6 +133,8 @@ set -o vi
 #export PATH="$HOME/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vlad/.vimpkg/bin"
 
 export PATH="$HOME/bin:$PATH"
+export JAVA_HOME="/usr/jdk/jdk1.8.0_241"
+export PATH="$JAVA_HOME/bin:$PATH"
 
 if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 

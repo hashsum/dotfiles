@@ -30,7 +30,7 @@ font pango:monospace 8
 floating_modifier $mod
 
 # Set wallpaper
-exec feh --bg-scale ~/Pictures/Wallpapers/sakura.jpg
+exec feh --bg-scale ~/pics/walls/abstract.jpg
 
 # open browser
 bindsym $mod+b exec firefox
