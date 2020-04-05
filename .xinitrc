@@ -13,7 +13,10 @@ setxkbmap -option altwin:swap_alt_win
 setxkbmap -layout us,ru -option grp:caps_toggle
 
 # Start compton
-compton -c &
+compton &
+
+# Set wallpaper
+feh --bg-scale ~/.config/.wall
 
 # invoke global X session script
 #. /etc/X11/Xsession
