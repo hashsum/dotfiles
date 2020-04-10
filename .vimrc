@@ -7,6 +7,7 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 " Plugins`
 call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
+Plug 'dylanaraps/wal.vim'
 Plug 'morhetz/gruvbox'
 Plug 'joshdick/onedark.vim'
 call plug#end()
@@ -16,13 +17,15 @@ set t_Co=256
 "colorscheme PaperColor
 "colorscheme gruvbox
 syntax on
-colorscheme onedark
+"colorscheme onedark
+colorscheme wal
+
 hi Normal guibg=NONE ctermbg=NONE
 
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
-set termguicolors
+"set termguicolors
 "set bg=light
 "set bg=dark
 
