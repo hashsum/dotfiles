@@ -24,6 +24,9 @@ wal -R
 # invoke global X session script
 #. /etc/X11/Xsession
 
+# status bar loop
+dwm-statusbar &
+
 # Fix java for dwm
 wmname LG3D
 

@@ -126,6 +126,7 @@ alias gcm='git commit'
 alias gs='git status'
 alias up='cd ~/Work/umag-javafx-pos'
 alias javaf='java --module-path /usr/share/openjfx/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.media,javafx.web,javafx.swing -jar'
+alias ydl='youtube-dl'
 
 # Enable vim mode
 set -o vi
