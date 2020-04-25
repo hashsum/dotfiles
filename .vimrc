@@ -25,6 +25,7 @@ hi Normal guibg=NONE ctermbg=NONE
 " ===============
 " Options
 " ==============
+
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
@@ -44,23 +45,20 @@ set ignorecase
 set smartcase
 set clipboard=unnamedplus
 
-"nnoremap <Space> <Nop>
-"vnoremap <Space> <Nop>
-"vmap <leader> <Space>
 
 " ===============
 " Key map
 " ===============
+
+"nnoremap <Space> <Nop>
+"vnoremap <Space> <Nop>
+"vmap <leader> <Space>
 " Insert closing brackets automatically
 inoremap {	{}<Left>
 inoremap {<CR>	{<CR>}<Esc>O
 inoremap {{	{
 inoremap {}	{}
-
-map <C-c> "+y<CR>
-map <C-Space> "+p<Esc>
 " Wrap line move
 nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
 nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
 "nnoremap <Space>y "+y
-
