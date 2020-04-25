@@ -22,52 +22,45 @@ colorscheme onedark
 
 hi Normal guibg=NONE ctermbg=NONE
 
+" ===============
+" Options
+" ==============
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
 "set termguicolors
 "set bg=light
 "set bg=dark
-
-
 set number
 set relativenumber
+" Use spaces instead of tabs
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set laststatus=2
+" Highlight search
+set hlsearch
+set ignorecase
+set smartcase
+set clipboard=unnamedplus
 
-set paste
+"nnoremap <Space> <Nop>
+"vnoremap <Space> <Nop>
+"vmap <leader> <Space>
 
-nnoremap <Space> <Nop>
-vnoremap <Space> <Nop>
-vmap <leader> <Space>
-
+" ===============
+" Key map
+" ===============
 " Insert closing brackets automatically
 inoremap {	{}<Left>
 inoremap {<CR>	{<CR>}<Esc>O
 inoremap {{	{
 inoremap {}	{}
 
-" Use spaces instead of tabs
-set expandtab
-set tabstop=4
-set shiftwidth=4
-set laststatus=2
-"execute pathogen#infect()
-"call pathogen#helptags()
-
-" Key mappings
-" map <C-n> :NERDTreeToggle<CR>
 map <C-c> "+y<CR>
 map <C-Space> "+p<Esc>
-
-" Highlight search
-set hlsearch
-
 " Wrap line move
 nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
 nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
+"nnoremap <Space>y "+y
 
-
-nnoremap <leader>y "+y
-vnoremap <leader>y "+y
-
-set ignorecase
-set smartcase
