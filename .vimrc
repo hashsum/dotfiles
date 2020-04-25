@@ -17,8 +17,8 @@ set t_Co=256
 "colorscheme PaperColor
 "colorscheme gruvbox
 syntax on
-"colorscheme onedark
-colorscheme wal
+colorscheme onedark
+"colorscheme wal
 
 hi Normal guibg=NONE ctermbg=NONE
 
@@ -28,7 +28,6 @@ set t_8b=[48;2;%lu;%lu;%lum
 "set termguicolors
 "set bg=light
 "set bg=dark
-
 
 
 set number
