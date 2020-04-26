@@ -136,6 +136,7 @@ set -o vi
 export PATH="$HOME/bin:$PATH"
 export JAVA_HOME="/usr/jdk/jdk1.8.0_241"
 export PATH="$JAVA_HOME/bin:$PATH"
+export ANDROID_HOME="$HOME/android/sdk"
 
 if [ $TILIX_ID ] || [ $VTE_VERSION ] ; then source /etc/profile.d/vte.sh; fi # Ubuntu Budgie END
 

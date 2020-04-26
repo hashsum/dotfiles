@@ -8,6 +8,7 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
 Plug 'morhetz/gruvbox'
+Plug 'neoclide/coc.nvim'
 call plug#end()
 
 
@@ -35,8 +36,6 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set laststatus=2
-execute pathogen#infect()
-call pathogen#helptags()
 
 " Key mappings
 " map <C-n> :NERDTreeToggle<CR>
