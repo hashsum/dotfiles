@@ -7,21 +7,19 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 " Plugins
 call plug#begin('~/.vim/plugged')
 Plug 'itchyny/lightline.vim'
-Plug 'dylanaraps/wal.vim'
 Plug 'joshdick/onedark.vim'
+Plug 'tpope/vim-commentary'
 call plug#end()
 
 set t_Co=256
 syntax on
 colorscheme onedark
-"colorscheme wal
 
 " Transparent background
 hi Normal guibg=NONE ctermbg=NONE
 
-" ==============
-" Options
-" ==============
+" OPTIONS
+
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
@@ -42,6 +40,10 @@ set hlsearch
 set ignorecase
 set smartcase
 set clipboard=unnamedplus
+" Fuzzy search
+set path+=**
+set wildmenu
+set wildignore+=*.class
 
 " ===============
 " Key mappings
