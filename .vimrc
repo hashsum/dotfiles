@@ -6,7 +6,7 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 
 " Plugins
 call plug#begin('~/.vim/plugged')
-Plug 'itchyny/lightline.vim'
+"Plug 'itchyny/lightline.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'tpope/vim-commentary'
 call plug#end()
@@ -23,10 +23,8 @@ hi Normal guibg=NONE ctermbg=NONE
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
-
 "set termguicolors
-"set bg=light
-"set bg=dark
+
 set number
 set relativenumber
 
@@ -44,10 +42,10 @@ set clipboard=unnamedplus
 set path+=**
 set wildmenu
 set wildignore+=*.class
+" FileType
+autocmd FileType java set colorcolumn=101
 
-" ===============
-" Key mappings
-" ===============
+" KEY MAPPINGS
 " Insert closing brackets automatically
 inoremap {	{}<Left>
 inoremap {<CR>	{<CR>}<Esc>O
