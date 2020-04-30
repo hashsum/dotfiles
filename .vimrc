@@ -15,45 +15,43 @@ set t_Co=256
 syntax on
 colorscheme onedark
 
-" Transparent background
+" transparent background
 hi Normal guibg=NONE ctermbg=NONE
 
-" OPTIONS
-
+" ===================
+"       OPTIONS       
+" ===================
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
 
-"set termguicolors
-"set bg=light
-"set bg=dark
+set termguicolors
 set number
 set relativenumber
-
-" Use spaces instead of tabs
+" use spaces instead of tabs
 set expandtab
 set tabstop=4
 set shiftwidth=4
 set laststatus=2
-" Highlight search
 set hlsearch
 set ignorecase
 set smartcase
 set clipboard=unnamedplus
-" Fuzzy search
+" fuzzy search
 set path+=**
 set wildmenu
 set wildignore+=*.class
+" escape timeout in insert and command-line mode
+set ttimeout
+set ttimeoutlen=100
 
-" ===============
-" Key mappings
-" ===============
-" Insert closing brackets automatically
-inoremap {	{}<Left>
-inoremap {<CR>	{<CR>}<Esc>O
-inoremap {{	{
-inoremap {}	{}
-" Wrap line move
-nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
-nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
+" ===================
+"    MAPPINGS
+" ===================
 nnoremap ,f :find<Space>
+" list all buffers
+nnoremap gb :ls<CR>:buffer<Space>
+
+" ===================
+"    LANGUAGES
+" ===================
