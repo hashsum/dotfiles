@@ -44,6 +44,9 @@ set wildignore+=*.class
 " escape timeout in insert and command-line mode
 set ttimeout
 set ttimeoutlen=100
+" Java bindings
+autocmd FileType java set colorcolumn=101
+autocmd FileType java nnoremap ,g :vimgrep // **/*.java<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 
 " ===================
 "    MAPPINGS
@@ -54,3 +57,5 @@ nnoremap ,f :find<Space>
 nnoremap gb :ls<CR>:buffer<Space>
 " esc removes highlighting
 nnoremap <Esc> :nohl<CR><Esc>
+" tags jump
+nnoremap <C-]> g<C-]>
