@@ -52,7 +52,5 @@ autocmd FileType java set colorcolumn=101
 nnoremap ,f :find<Space>
 " list all buffers
 nnoremap gb :ls<CR>:buffer<Space>
-
-" ===================
-"    LANGUAGES
-" ===================
+" esc removes highlighting
+nnoremap <Esc> :nohl<CR><Esc>
