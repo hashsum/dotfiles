@@ -6,7 +6,6 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 
 " Plugins
 call plug#begin('~/.vim/plugged')
-Plug 'itchyny/lightline.vim'
 Plug 'joshdick/onedark.vim'
 Plug 'tpope/vim-commentary'
 call plug#end()
@@ -26,6 +25,7 @@ set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
 
 set termguicolors
+
 set number
 set relativenumber
 " use spaces instead of tabs
@@ -48,6 +48,7 @@ set ttimeoutlen=100
 " ===================
 "    MAPPINGS
 " ===================
+autocmd FileType java set colorcolumn=101
 nnoremap ,f :find<Space>
 " list all buffers
 nnoremap gb :ls<CR>:buffer<Space>
