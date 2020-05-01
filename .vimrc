@@ -10,7 +10,6 @@ Plug 'joshdick/onedark.vim'
 Plug 'tpope/vim-commentary'
 call plug#end()
 
-set t_Co=256
 syntax on
 colorscheme onedark
 
@@ -23,7 +22,7 @@ hi Normal guibg=NONE ctermbg=NONE
 " enable 24 bit color support
 set t_8f=[38;2;%lu;%lu;%lum
 set t_8b=[48;2;%lu;%lu;%lum
-
+set t_Co=256
 set termguicolors
 
 set number
@@ -45,13 +44,11 @@ set wildignore+=*.class
 set ttimeout
 set ttimeoutlen=100
 " Java bindings
-autocmd FileType java set colorcolumn=101
 autocmd FileType java nnoremap ,g :vimgrep // **/*.java<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 
 " ===================
 "    MAPPINGS
 " ===================
-autocmd FileType java set colorcolumn=101
 nnoremap ,f :find<Space>
 " list all buffers
 nnoremap gb :ls<CR>:buffer<Space>
