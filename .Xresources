@@ -1,0 +1,48 @@
+! X colors.
+*foreground:        #abb2bf
+!*background:        #282c34
+*background:        #000000
+
+! emacs*foreground:   #c0b3bc
+! emacs*background:   #080513
+! URxvt*foreground:   #c0b3bc
+! XTerm*foreground:   #c0b3bc
+! UXTerm*foreground:  #c0b3bc
+! URxvt*background:   [100]#080513
+! XTerm*background:   #080513
+! UXTerm*background:  #080513
+! URxvt*cursorColor:  #c0b3bc
+! XTerm*cursorColor:  #c0b3bc
+! UXTerm*cursorColor: #c0b3bc
+! URxvt*borderColor:  [100]#080513
+dmenu.background:       #000000
+dmenu.foreground:       #98c379
+dmenu.selbackground:    #98c379
+dmenu.selforeground:    #000000
+
+! Colors 0-15.
+
+! black
+*color0:  #000000
+! red
+*color1:  #e06c75
+! green
+*color2:  #98c379
+!yellow
+*color3:  #e5c07b
+!dark blue
+*color4:  #61afef
+!magenta
+*color5:  #c678dd
+!cyan
+*color6:  #56b6c2
+!gray
+*color7:  #abb2bf
+*color8:  #5c6370
+*color9:  #be5046
+*color10:  #7a9f60
+*color11:  #d19a66
+*color12:  #3b84c0
+*color13:  #9a52af
+*color14:  #3c909b
+*color15:  #828997
