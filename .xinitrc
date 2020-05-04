@@ -19,7 +19,7 @@ compton &
 #feh --bg-scale ~/.config/.wall
 
 # Restore the last colorscheme that was in use
-wal -R
+xrdb ~/.Xresources
 
 # invoke global X session script
 #. /etc/X11/Xsession
