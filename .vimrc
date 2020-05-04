@@ -45,6 +45,7 @@ set ttimeout
 set ttimeoutlen=100
 " Java bindings
 autocmd FileType java nnoremap ,g :vimgrep // **/*.java<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
+autocmd FileType java set tags+=~/src/java8-src/tags,~/src/javafx-src/tags
 
 " ===================
 "    MAPPINGS
