@@ -35,11 +35,14 @@ set relativenumber
 set expandtab
 set tabstop=4
 set shiftwidth=4
-set laststatus=2
-set hlsearch
-set ignorecase
+set laststatus=2            " always show status line
+set hlsearch                " highlight search
+set ignorecase              " ignore case when searching
 set smartcase
 set clipboard=unnamedplus
+set hidden                  " move to another buffer without saving
+set splitbelow
+set splitright
 " fuzzy search
 set path+=**
 set wildmenu
@@ -49,7 +52,10 @@ set ttimeout
 set ttimeoutlen=100
 " Java bindings
 autocmd FileType java nnoremap ,g :vimgrep // **/*.java<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
-autocmd FileType java set tags+=~/src/java8-src/tags,~/src/javafx-src/tags
+autocmd FileType java set tags+=~/src/java-src/tags,~/src/javafx-src/tags,~/src/java8-src/tags
+autocmd FileType java set path+=~/src/java-src/
+autocmd FileType java nnoremap ,jc ipublic class <C-R>=expand("%:t:r")<CR> {<CR>}<Esc>
+autocmd FileType java nnoremap ,jm ipublic static void main(String[] args) {<CR>}<Esc>
 
 " Clojure bindings
 augroup  rainbow_lisp
@@ -67,3 +73,10 @@ nnoremap gb :ls<CR>:buffer<Space>
 nnoremap <Esc> :nohl<CR><Esc>
 " tags jump
 nnoremap <C-]> g<C-]>
+
+nnoremap <C-H>  <C-W>h
+nnoremap <C-J>  <C-W>j
+nnoremap <C-K>  <C-W>k
+nnoremap <C-L>  <C-W>l
+nnoremap <C-W>l :redr<CR>
+nnoremap <C-W>- <C-W>5-
