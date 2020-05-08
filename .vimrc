@@ -8,9 +8,13 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 call plug#begin('~/.vim/plugged')
 Plug 'joshdick/onedark.vim'
 Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-fireplace'
+Plug 'guns/vim-clojure-static'
+Plug 'junegunn/rainbow_parentheses.vim'
 call plug#end()
 
 syntax on
+filetype plugin indent on
 colorscheme onedark
 
 " transparent background
@@ -46,6 +50,12 @@ set ttimeoutlen=100
 " Java bindings
 autocmd FileType java nnoremap ,g :vimgrep // **/*.java<Left><Left><Left><Left><Left><Left><Left><Left><Left><Left><Left>
 autocmd FileType java set tags+=~/src/java8-src/tags,~/src/javafx-src/tags
+
+" Clojure bindings
+augroup  rainbow_lisp
+    autocmd!
+    autocmd FileType lisp,clojure,scheme RainbowParentheses
+augroup END
 
 " ===================
 "    MAPPINGS
